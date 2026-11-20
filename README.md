@@ -48,3 +48,11 @@ E
 
 ## Project Type
 This is a Python-based network congestion simulation developed for educational purposes.
+
+## Screenshots
+
+### Normal Traffic
+![Normal Traffic](normal_traffic.png)
+
+### Congestion Detected
+![Congestion Detected](congestion_detected.png)
